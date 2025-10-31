@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const FakeTerminalApp());
 }
-
+// Edited for GitHub Actions
 class FakeTerminalApp extends StatelessWidget {
   const FakeTerminalApp({Key? key}) : super(key: key);
 
